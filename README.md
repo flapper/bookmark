@@ -1,10 +1,12 @@
 # Django Bookmark example
 
-Practiced Django features. You can do whatever you want.  
-Feel free to add features or to customize it. This is not stable project.  
-Many works will be needed to deploy a stable version of this project.
-장고의 기능을 연습합니다.  
+Practiced Django features.  
+You can do whatever you want.  
+Feel free to add features or to customize it.  
+This is not stable project.  
+Many works will be needed to deploy a stable version of this project.  
   
+장고의 기능을 연습합니다.    
 이 프로젝트는 마음껏 새로운 기능을 추가하거나 기존 코드를 수정할 수 있습니다.  
 해당 프로젝트는 안정적인 버전이 아닙니다.  
 배포 버전을 만들기 위해서는 작업이 더 필요합니다.
